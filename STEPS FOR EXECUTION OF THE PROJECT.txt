@@ -1,0 +1,10 @@
+STEPS FOR EXECUTION OF THE PROJECT
+
+STEP 1 : Type Anaconda3 (64-bit) in Windows Search Bar and there appears a folder and open the file location of it.
+STEP 2 : And click on Anaconda3 (64-bit) and click on Anaconda prompt and run it as administrator.
+STEP 3 : Now Anaconda prompt will open and open E disk and click on Pest Control --> PEST_CNN_GB --> APP --> APP and then copy the path
+         and paste in anaconda prompt as cd path and press enter.
+STEP 4 : Now type e: and press enter to change the disk.
+STEP 5 : Now type python APP.py and press enter now the model will run and a url is generated. Now copy the url and paste it in your browser.
+STEP 6 : Here Register and Login Dashboard will appear fill the register credentials and register. Now login with the registered credentials.
+STEP 7 : Now upload a Trained Pest image from the E disk data and click on predict. Now you will get the prediction result about the pest. 
